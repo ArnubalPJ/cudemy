@@ -1,0 +1,24 @@
+body{
+    background-color: #ccc;
+    /*background-image: url("./images/patron1.jpg");
+    background-attachment: fixed; /* esta propiedad permite que el fondo se quede  quieto, sirve mucho cuano 
+                                    el fondo es una imagen grande*/
+}
+
+#caja{
+    border: 3px solid black;
+    padding: 5px;
+    background-color: lightblue;
+    color: lightseagreen;
+    font-family: "Open sans";
+    text-align: center;
+    line-height: 20px; /*en cajas donde has mas de una line define la altura de cada una*/
+}
+h2{
+    color: gray;
+    background: chartreuse;
+
+}
+p{
+    color: red;
+}
